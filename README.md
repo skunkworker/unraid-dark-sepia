@@ -6,3 +6,6 @@ Generated using Dark Reader and tweaked for readability.
 
 - Copy all `.css` files to `/usr/local/emhttp/plugins/dynamix/styles`
 - Navigate to `http://your-unraid-ip/Settings/DisplaySettings` and select `Darksepia` as your Dynamix Color Theme.
+
+## Screenshot
+![](screenshot.png?raw=true)

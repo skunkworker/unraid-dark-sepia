@@ -7,8 +7,7 @@ Generated using Dark Reader and tweaked for readability.
 - Copy all `.css` files to `/boot/config/styles/`
 - Add the following to your go file.
 ```
-cp /boot/config/styles/dynamix-darksepia.css /usr/local/emhttp/plugins/dynamix/styles/
-cp /boot/config/styles/default-darksepia.css /usr/local/emhttp/plugins/dynamix/styles/
+cp /boot/config/styles/*.css /usr/local/emhttp/plugins/dynamix/styles/
 ```
 
 - Optional - Reboot or manually run above to copy them in.
